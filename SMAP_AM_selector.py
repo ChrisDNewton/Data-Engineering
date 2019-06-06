@@ -60,6 +60,4 @@ for subdir, dirs, files in os.walk(rootdir):
             newfilepath = "D:\CD_Newton_06_06AM\SMAP\SMAP_TS_PM" + os.sep + file
             os.rename(filepath, newfilepath)
             print("moved to")
-            print(newfilepath)
-            
-import timestring           
+            print(newfilepath)       
