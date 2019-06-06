@@ -1,2 +1,2 @@
 # Data-Engineering
-Reference repository for data wrangling with Pandas
+Reference repository for data wrangling with Pandas, OS etc.
